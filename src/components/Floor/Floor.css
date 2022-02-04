@@ -1,5 +1,7 @@
 .floor{
-
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     width: 50%;
     height: 300px;
     border: solid;
